@@ -36,8 +36,8 @@ function CreateOrder() {
 
 	return (
 		<div>
+			// eslint-disable-next-line react/no-unescaped-entities
 			<h2>Ready to order? Let's go!</h2>
-
 			<form>
 				<div>
 					<label>First Name</label>
